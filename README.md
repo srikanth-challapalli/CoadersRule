@@ -1,2 +1,2 @@
 # CoadersRule
-An enterprise application using SpringMVC , Hibernate, Amgular , Typescript, TestNg, Selenium
+An enterprise application using SpringMVC , Hibernate, Angular , Typescript, TestNg, Selenium
